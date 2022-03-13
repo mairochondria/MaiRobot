@@ -29,3 +29,5 @@
 <p align='center'><a href="https://discord.gg/5ya7rHDS8H" target="_blank" rel="noopener noreferrer">
     <img src="https://discordapp.com/api/guilds/747410023130595428/widget.png?style=banner4" alt="Discord" />
 </a></p>
+
+<iframe src="https://discord.com/widget?id=747410023130595428&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
