@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/qx95ola.png">
 </p>
 
-# Why invite 10 bots when you can only have ONE? MaiRobot is a multi-purpose, easy-to-use and feature-rich bot for all your server needs.
+# Why invite 10 bots when you can only have ONE? MaiRobot is a multi-purpose, easy-to-use and feature-rich bot for all your server needs. [Invite](https://discord.com/api/oauth2/authorize?client_id=845215763387908096&permissions=1644906413303&scope=bot%20applications.commands) me now
 
 ## Features include:
 
