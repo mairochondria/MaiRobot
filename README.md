@@ -6,14 +6,14 @@
 
 ## Features include:
 
-• Slash Commands
-• Advanced Leveling System w/ Customizable Rank Cards
-• Advanced Ticket System
-• Chatbot
-• Anti-Ghost Ping
-• Moderation
-• Fun & Images
-• 24/7 Uptime
-• 24/7 Support Offered in our Discord Support Server
+• Slash Commands\n
+• Advanced Leveling System w/ Customizable Rank Cards\n
+• Advanced Ticket System\n
+• Chatbot\n
+• Anti-Ghost Ping\n
+• Moderation\n
+• Fun & Images\n
+• 24/7 Uptime\n
+• 24/7 Support Offered in our Discord Support Server\n
 
 ## & MANY MORE!
