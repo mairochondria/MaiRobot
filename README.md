@@ -25,3 +25,7 @@
 • 24/7 Support Offered in our Discord Support Server
 
 ## & MANY MORE!
+
+<p align='center'><a href="https://discord.gg/5ya7rHDS8H" target="_blank" rel="noopener noreferrer">
+    <img src="https://discordapp.com/api/guilds/747410023130595428/widget.png?style=banner4" alt="Discord" />
+</a></p>
